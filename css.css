@@ -1,0 +1,30 @@
+body {
+    background-color: aqua;
+
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    columns: red;
+}
+h2 {font-style: italic;
+text-align: center}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-seri;
+    text-align: center
+}
+header{background-color:red;
+text-align: center;
+font-family: serif;
+font-size: 0in}
+footer{
+    background-color: black;
+    font-display: ;
+    font-style: oblique
+}
+p{
+    margin: 40px;
+    backdrop-filter: 
+}img {max-width: width 100px;
+    height: 50 px};
+    
